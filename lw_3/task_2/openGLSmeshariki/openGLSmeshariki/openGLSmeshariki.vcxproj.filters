@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Primitives">
+      <UniqueIdentifier>{326c30ed-7933-4ed9-a4f1-57e73cce4f95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PlantParts">
+      <UniqueIdentifier>{32e760c8-8167-4cfd-aa2a-07fec668c080}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background">
+      <UniqueIdentifier>{97771012-c679-471b-88c5-3096f6c8966c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Grass">
+      <UniqueIdentifier>{e8494e91-8c82-4403-b1e3-0e8f975c1076}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Flowers">
+      <UniqueIdentifier>{81b23ea5-cd5d-4504-b16c-86bfa0c28e33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Butterflies">
+      <UniqueIdentifier>{9635fb84-2489-4e4a-b379-53668fd1427c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Groups">
+      <UniqueIdentifier>{95a071d9-550b-455f-8af6-95eba216f151}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Draw">
+      <UniqueIdentifier>{ee96bae2-c4f3-40e0-a2b3-d99e36095fac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Window">
+      <UniqueIdentifier>{ac59dae1-0ab8-4b9a-b6fe-5a088b1822e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{8b619ec0-ccb3-4b45-9289-8049be2c4890}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="Primitives.cpp">
+      <Filter>Primitives</Filter>
+    </ClCompile>
+    <ClCompile Include="PlantParts.cpp">
+      <Filter>PlantParts</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Background</Filter>
+    </ClCompile>
+    <ClCompile Include="Grass.cpp">
+      <Filter>Grass</Filter>
+    </ClCompile>
+    <ClCompile Include="Flowers.cpp">
+      <Filter>Flowers</Filter>
+    </ClCompile>
+    <ClCompile Include="Butterflies.cpp">
+      <Filter>Butterflies</Filter>
+    </ClCompile>
+    <ClCompile Include="Groups.cpp">
+      <Filter>Groups</Filter>
+    </ClCompile>
+    <ClCompile Include="Draw.cpp">
+      <Filter>Draw</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Primitives.h">
+      <Filter>Primitives</Filter>
+    </ClInclude>
+    <ClInclude Include="PlantParts.h">
+      <Filter>PlantParts</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Background</Filter>
+    </ClInclude>
+    <ClInclude Include="Grass.h">
+      <Filter>Grass</Filter>
+    </ClInclude>
+    <ClInclude Include="Flowers.h">
+      <Filter>Flowers</Filter>
+    </ClInclude>
+    <ClInclude Include="Butterflies.h">
+      <Filter>Butterflies</Filter>
+    </ClInclude>
+    <ClInclude Include="Groups.h">
+      <Filter>Groups</Filter>
+    </ClInclude>
+    <ClInclude Include="Draw.h">
+      <Filter>Draw</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
